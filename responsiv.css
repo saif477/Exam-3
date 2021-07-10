@@ -1,0 +1,126 @@
+@media all and (max-width:1200px){
+    .single-services h3 {
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    .from-item i {
+        top: 17px;
+        right: 14px;
+        height: 27px;
+        width: 30px;
+    }
+}
+
+
+@media all and (max-width:992px){
+
+    .Heading-top {
+        display: none;
+
+    }
+    .carousel-control-prev-batton {
+        width: 20%;
+    }
+    .carousel-control-next-batton {
+        width: 20%;
+    }
+    .carousel-caption h5 {
+        font-size: 2.5rem;
+    }
+    .carousel-caption p {
+        font-size: .9rem;
+    }
+    .about-content {
+        margin-top: 40px;
+    }
+    html{
+        font-size: 85%;
+    }
+    .projects-item {
+        margin-top: 25px;
+    }
+    .choose-img {
+        margin-top: 30px;
+    }
+    .expert-team {
+        margin-bottom: 40px;
+    }
+    .apolo-form {
+        margin-top: 50px;
+    }
+    .news-item-suru {
+        margin-bottom: 40px;
+    }
+    .slide-item-suru {
+        margin-bottom: 40px;
+    }
+    .footer-item-suru {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .footer-item-suru h3 {
+        display: inline-block;
+    }
+    .my-custom-css li ul {
+        left: 140px;
+    }
+    .my-custom-css li ul li ul {
+        left: 100%;
+    }
+    .search-or-bar .bar-menu {
+        display: none;
+    }
+    .search-or-bar span {
+        display: none;
+    }
+    .defalt-btn {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    header {
+        position: unset;
+    }
+    .menu ul li .mega-comon-ul li ul {
+        display: none;
+    }
+}
+
+@media all and (max-width:766px){
+    
+    
+    .top-services-item.top1 {
+        margin-top: 0;
+    }
+    .top-services-item.top2 {
+        margin-top: 0;
+    }
+}
+
+@media all and (max-width:550px){
+    
+    .carousel-control-prev-batton {
+        width: 35%;
+    }
+    .carousel-control-next-batton {
+        width: 35%;
+    }
+    .carousel-caption {
+        top: 15%;
+    }
+}
+@media all and (max-width:576px){
+    .about-image img:nth-child(2) {
+        right: 0;
+        left: 0;
+        width: 229px;
+        margin: auto;
+    }
+    .footer-contact li i {
+        left: calc(16%);
+    }
+}
+@media all and (max-width:400px){
+    .footer-bottom-text p {
+        font-size: .8rem;
+    }
+}
